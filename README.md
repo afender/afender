@@ -1,5 +1,5 @@
 ## Hi there! I'm [Alex](https://www.linkedin.com/in/alexfender/) 👋
-Advancing the open-source CUDA accelerated ecosystem at NVIDIA for over a decade
+Advancing the CUDA accelerated ecosystem at NVIDIA for over a decade
 
 - 🔭 Currently working on accelerating decision science with artificial intelligence, optimization, and parallel computing
 - 🌱 I’m looking to collaborate on cuOpt
